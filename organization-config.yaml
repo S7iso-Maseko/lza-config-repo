@@ -5,6 +5,7 @@ organizationalUnits:
   - name: AFT Unit
   - name: Sandbox
   - name: NewTestOU
+  - name: Praveen
   - name: Suspended
     ignore: true
 serviceControlPolicies: []
