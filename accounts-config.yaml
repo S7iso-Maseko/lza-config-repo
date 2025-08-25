@@ -23,6 +23,7 @@ mandatoryAccounts:
     email: smaseko+audit@amazon.com
     organizationalUnit: Security
     warm: false
+workloadAccounts:
   - name: AFT-Management-2
     description: >-
       My AFT Management Account
@@ -61,4 +62,3 @@ mandatoryAccounts:
     email: smaseko+new-test-account@amazon.com
     organizationalUnit: NewTestOU
     warm: false
-workloadAccounts: []
