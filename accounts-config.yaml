@@ -62,11 +62,11 @@ workloadAccounts:
     email: smaseko+new-test-account@amazon.com
     organizationalUnit: NewTestOU
     warm: false
-  # - name: replicated
-  #   description: >-
-  #     The security audit account (also referred to as the audit account). Do not
-  #     change the name field for this mandatory account. Note, the account name
-  #     key does not need to match the AWS account name.
-  #   email: smaseko+replicated@amazon.com
-  #   organizationalUnit: Praveen
-  #   warm: false
+  - name: replicated
+    description: >-
+      The security audit account (also referred to as the audit account). Do not
+      change the name field for this mandatory account. Note, the account name
+      key does not need to match the AWS account name.
+    email: smaseko+replicated@amazon.com
+    organizationalUnit: Sandbox
+    warm: false
