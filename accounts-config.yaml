@@ -53,7 +53,7 @@ workloadAccounts:
   #     key does not need to match the AWS account name.
   #   email: smaseko+praveen@amazon.com
   #   organizationalUnit: Sandbox
-    warm: false
+    # warm: false
   - name: new-test-account
     description: >-
       The security audit account (also referred to as the audit account). Do not
